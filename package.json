@@ -1,0 +1,11 @@
+{
+  "name": "login-app",
+  "version": "1.0.0",
+  "description": "Primeiro exemplo com Playwright",
+  "main": "index.js",
+  "author": "Andressa Karla",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "1.22.2"
+  }
+}
