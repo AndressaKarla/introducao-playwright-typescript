@@ -18,7 +18,7 @@
 - Page Objects;
 - Evidências das execuções dos testes automatizados em formato de videos e capturas de tela (screenshots);
 
-![evidencia-2](https://github.com/AndressaKarla/introducao-playwright-typescript/blob/main/arquivos/evidencia-2.gif)
+![evidencia](https://github.com/AndressaKarla/introducao-playwright-typescript/blob/main/arquivos/evidencia.gif)
 
 - Entre outros conceitos.
   
