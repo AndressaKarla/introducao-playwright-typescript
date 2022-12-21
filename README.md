@@ -60,7 +60,7 @@ npx playwright test
 ##
 Feito com ❤️ por <a href="https://www.linkedin.com/in/andressakarla/">Andressa Karla</a> :wave: 
 
-[![Medium](https://img.shields.io/badge/-Medium-595D60?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@andressakarla)](https://medium.com/@andressakarla)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-595D60?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andressakarla//)](https://www.linkedin.com/in/andressakarla/)
+[![Medium](https://img.shields.io/badge/-Medium-595D60?style=plastic&logo=Medium&logoColor=white&link=https://medium.com/@andressakarla)](https://medium.com/@andressakarla)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-595D60?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andressakarla//)](https://www.linkedin.com/in/andressakarla/)
 
 -------------------------------------------------------------------
